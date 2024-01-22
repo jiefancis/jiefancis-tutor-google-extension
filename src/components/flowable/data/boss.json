@@ -1,0 +1,13 @@
+[
+    {
+        "name": "openRecommends",
+        "description":"打开推荐列表",
+        "commands": [
+            {
+                "name": "点击推荐牛人",
+                "description": "点击推荐牛人",
+                "selector": ".menu-recommend > dt > a"
+            }
+        ]
+    },
+]
